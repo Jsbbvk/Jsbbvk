@@ -5,6 +5,9 @@ I am currently a computer science student at Purdue University.
 - :globe_with_meridians: [jacobzhang.cf](https://jacobzhang.cf)
 - :page_facing_up: [LinkedIn](https://www.linkedin.com/in/jacob-z-2ba129133/)
 
+![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsbbvk&show_icons=true&theme=tokyonight)
+
+
 <!--
 **Jsbbvk/Jsbbvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
